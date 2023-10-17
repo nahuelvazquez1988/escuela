@@ -1,0 +1,17 @@
+body{
+  background-image: url("imagenes/mariposas.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+  color: blueviolet;
+}
+
+p{
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Anton', sans-serif;
+}
